@@ -20,7 +20,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
         execute: function() {
             CoursesComponent = (function () {
                 function CoursesComponent() {
-                    this.title = "The title of course page";
+                    this.title = "The title of the course page";
                     this.courses = ["Course1", "Course2", "Course3"];
                 }
                 CoursesComponent = __decorate([
